@@ -1,5 +1,5 @@
 # XMLFeedConsumer
-</br><h1>Java application which:</h1>
+</br><h2>Java application which:</h2>
 </br>Gets parameter when executing from commandline (as input parameter)
 </br>The parameter contains path to configuration text file
 </br>Configuration file has typical *.INI file format  attribute=value
