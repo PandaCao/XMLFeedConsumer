@@ -1,6 +1,6 @@
 # XMLFeedConsumer
-</br>Java application where:
-</br>gets parameter when executing from commandline (as input parameter)
+</br><h1>Java application which:</h1>
+</br>Gets parameter when executing from commandline (as input parameter)
 </br>The parameter contains path to configuration text file
 </br>Configuration file has typical *.INI file format  attribute=value
 </br>Configuration file contains URL, where your application needs to connect and download a response (the response contains huge XML file) – and connection details needed to connect to DB.
